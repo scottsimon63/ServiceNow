@@ -22,7 +22,7 @@ Firebug - web development & debugging tool
 FileSync - synchronize local file changes
 ServiceNow / FileSync
 
-    Sublime 2 Editor:
+Sublime 2 Editor:
 Features:
 Customize Settings - Keys, Menus, Snippets, Macros, Completions
 Plugins - powerful Python based plugin API
@@ -52,7 +52,7 @@ Scope
 Description
 Content
 
-     ServiceNow Snippets Code
+ServiceNow Snippets Code
 Glide Ajax
 Glide Client
 Glide Form
@@ -62,18 +62,18 @@ HTML Syntax
 Jelly Syntax
 View in Browser (Ctrl+Alt+C) for Chrome
 
-    FileSync:
-     Features:
+FileSync:
+Features:
 FileSync synchronizes local file changes to mapped records in ServiceNow instances.
 When a file changes in the parent folder, the file is automatically updated in ServiceNow
 
-     Challenges:
+Challenges:
 Console needs to be always running
 If changed on ServiceNow side, local code is not updated (but you will get a message to synch your local file)
 Manual process of saving files on the local drive
 Will allow you to save a file with a syntax error
 
-    Standardize Code:
+Standardize Code:
 Error Handling Try - Catch
 Ajax Calls - JSON handle arrays
 Record Objects - Script Automation Tool
